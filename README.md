@@ -14,3 +14,11 @@ Requisitos do Sistema:
 - Dashboards atualizados com indicadores de inovação para a diretoria. 
 - Mecanismos de ranking, gamificação e premiação. 
 - Integração com os meios existentes da empresa.
+
+Integrantes:
+
+- Vitor Cosso, RM 98231
+- Dimitris Assis Lopes, RM 550120
+- Thiago Scaciota, RM 550186
+- Henrique Peduto, RM 93658
+- Felipe Marino, RM 98805
